@@ -1,18 +1,6 @@
-## Q&A
+# Music recommendation
 
-### 1. Name
-
-Ferreira. Igor Ferreira
-
-### 2. Occupation
-
-Code and post GIF on the internet
-
-### 3. GIF
-
-<img style="max-width:100px; height:auto" alt="Goat dancing" src="/resource/goat.gif"/>
-
-### 4. Music
+## Metal
 
 <table style="border-collapse: collapse;">
     <tr style="border: none!important;">
@@ -28,11 +16,18 @@ Code and post GIF on the internet
             <img style="max-width:100px; height:auto" alt="Ayreon, The Theory Of Everything" src="/resource/ayreon.jpg"/>
         </a>
         </td>
+    </tr>
+</table>
+
+## Musicals
+
+<table>
+    <tr>
         <td style="border: none!important;">
-        <a href="https://music.apple.com/es/album/six-the-musical-studio-cast-recording/1465183308?l=en">
-            <b>Six: The Musical</b></br>
-            <img style="max-width:100px; height:auto" alt="Six: The Musical" src="/resource/six.jpg"/>
-        </a>
+            <a href="https://music.apple.com/es/album/six-the-musical-studio-cast-recording/1465183308?l=en">
+                <b>Six: The Musical</b></br>
+                <img style="max-width:100px; height:auto" alt="Six: The Musical" src="/resource/six.jpg"/>
+            </a>
         </td>
     </tr>
 </table>
