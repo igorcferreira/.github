@@ -1,3 +1,8 @@
+# Dev Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=igorcferreira&count_private=true&hide=css,html&theme=dracula)
+![General stats](https://github-readme-stats.vercel.app/api?username=igorcferreira&count_private=true&theme=dracula)
+
 # Music recommendation
 
 ## Metal
